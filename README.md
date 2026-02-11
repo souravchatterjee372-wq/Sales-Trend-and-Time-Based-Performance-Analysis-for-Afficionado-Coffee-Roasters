@@ -39,3 +39,26 @@ This project analyzes sales data for **Aficionado Coffee Roasters** to uncover t
 - Monthly growth trend observed
 
 ---
+## 📂 Project Structure
+data/ → raw dataset
+notebooks/ → analysis files
+visuals/ → charts & graphs
+report/ → final insights
+
+---
+
+## 🚀 How to Run
+1. Download dataset
+2. Open notebook / Excel file
+3. Run analysis cells or review dashboards
+
+---
+
+## 👤 Author
+**Sourav Chatterjee**  
+Aspiring Data Analyst | Business Insights Enthusiast
+
+---
+
+## ⭐ If you found this project useful
+Consider giving it a star!
